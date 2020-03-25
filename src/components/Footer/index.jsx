@@ -5,7 +5,7 @@ const Footer = () => (
   <FooterWrapper>
     Desarrollado por @
     <a
-      href="https://github.com/wonism/gatsby-advanced-blog"
+      href="https://github.com/JuanPablo-Hack"
       target="_blank"
       rel="noreferrer noopener"
     >
