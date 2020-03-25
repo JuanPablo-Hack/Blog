@@ -131,7 +131,7 @@ const Gnb = ({
             </ListMenu>
             <ListMenu>
               <StyledLink to="/pages/1" className={isPost ? 'active' : ''} onClick={toggleMenu}>
-                Posts
+                Publicaciones
               </StyledLink>
               {categories.length > 0
                 ? (
@@ -175,7 +175,7 @@ const Gnb = ({
             ) : null}
             <ListMenu>
               <StyledLink to="/resume" className={isResume ? 'active' : ''} onClick={toggleMenu}>
-                Resume
+                CV
               </StyledLink>
             </ListMenu>
             <SearchBarWrapper>
