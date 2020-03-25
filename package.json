@@ -1,14 +1,15 @@
 {
   "name": "gatsby-advanced-blog",
   "version": "1.1.5",
-  "description": "Gatsby starter for advanced blog",
-  "main": "n/a",
-  "author": "wonism",
-  "license": "MIT",
-  "homepage": "https://github.com/wonism/gatsby-advanced-blog",
+  "description": "Blog Jupiter Mzo",
+  "author": "JuanPablo-Hack",
   "keywords": [
     "gatsby"
   ],
+  "engines": {
+    "npm": "6.14.3",
+    "node": "10.19.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/wonism/gatsby-advanced-blog.git"
