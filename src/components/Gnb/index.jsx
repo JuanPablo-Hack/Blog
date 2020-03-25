@@ -133,38 +133,8 @@ const Gnb = ({
               <StyledLink to="/pages/1" className={isPost ? 'active' : ''} onClick={toggleMenu}>
                 Publicaciones
               </StyledLink>
-              {categories.length > 0
-                ? (
-                  <>
-                    &nbsp;
-                    <MovableFaCaretDown
-                      className={isSubMenuClosed ? 'is-active' : ''}
-                      onClick={toggleSubMenu}
-                    />
-                  </>
-                )
-                : null}
-              <SubMenu>
-                <div>
-                  {categories.map(({ key, length }) => {
-                    if (key === '__ALL__') {
-                      return null;
-                    }
-
-                    return (
-                      <li key={key}>
-                        <Link to={`/categories/${key}/1`} onClick={toggleMenu}>
-                          {key}
-                          &nbsp;
-                          <small>
-                            {`(${length})`}
-                          </small>
-                        </Link>
-                      </li>
-                    );
-                  })}
-                </div>
-              </SubMenu>
+           
+             
             </ListMenu>
             {hasPortfolio ? (
               <ListMenu>
