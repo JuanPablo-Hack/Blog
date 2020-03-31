@@ -1,5 +1,5 @@
 ---
-path: "/post-5/"
+path: "/Quasar-CLI/"
 category: "NodeJS"
 tags: ["tag"]
 title: "Instalacion de Quasar CLI"

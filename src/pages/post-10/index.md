@@ -1,5 +1,5 @@
 ---
-path: "/post-10/"
+path: "/NodeJS/"
 category: "NodeJS"
 tags: ["tag", "tag-3"]
 title: "Instalacion de Node JS"

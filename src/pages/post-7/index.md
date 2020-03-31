@@ -1,5 +1,5 @@
 ---
-path: "/post-7/"
+path: "/GorillaMux/"
 category: "Go"
 tags: ["tag"]
 title: "Servidor con GorillaMux"

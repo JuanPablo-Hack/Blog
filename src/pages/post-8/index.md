@@ -1,5 +1,5 @@
 ---
-path: "/post-8/"
+path: "/Go/"
 category: "Go"
 tags: ["tag"]
 title: "Instalacion de Go en Linux"

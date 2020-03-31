@@ -1,5 +1,5 @@
 ---
-path: "/post-2/"
+path: "/API-REST/"
 category: "NodeJS"
 tags: ["tag"]
 title: "Que es una API REST?"

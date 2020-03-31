@@ -1,6 +1,6 @@
 ---
-path: "/post-6/"
-category: "NodeJS"
+path: "/BlockChain/"
+category: "Go"
 tags: ["tag"]
 title: "Blockchain con Go"
 date: "2020-03-21T18:30:00.000Z"

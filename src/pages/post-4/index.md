@@ -1,5 +1,5 @@
 ---
-path: "/post-4/"
+path: "/Quasar-PWA/"
 category: "NodeJS"
 tags: ["tag"]
 title: "PWA con Quasar CLI"

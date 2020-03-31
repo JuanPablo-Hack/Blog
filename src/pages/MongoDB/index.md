@@ -1,5 +1,5 @@
 ---
-path: "/post-1/"
+path: "/MongoDB/"
 category: "Bases de Datos"
 tags: ["tag", "tag-2"]
 title: "Bases de datos Documentales con MongoDB"

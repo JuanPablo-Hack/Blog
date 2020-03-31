@@ -1,5 +1,5 @@
 ---
-path: "/post-3/"
+path: "/Gatsby/"
 category: "NodeJS"
 tags: ["tag"]
 title: "Crear un blog con Gatsby CLI"
