@@ -137,7 +137,7 @@ const Gnb = ({
              
             </ListMenu>
             <ListMenu>
-              <StyledLink to="https://mapa-covid-19.now.sh/" className={isPost ? 'active' : ''}  onClick={toggleMenu}>
+              <StyledLink src="https://mapa-covid-19.now.sh/" className={isPost ? 'active' : ''}  onClick={toggleMenu}>
                 Mapa Informativo
               </StyledLink>
            
@@ -225,7 +225,7 @@ const Gnb = ({
           
         </ListMenu>
         <ListMenu>
-              <StyledLink to="https://mapa-covid-19.now.sh/" className={isPost ? 'active' : ''} onClick={toggleMenu}>
+              <StyledLink src="https://mapa-covid-19.now.sh/" className={isPost ? 'active' : ''} onClick={toggleMenu}>
                 Mapa Informativo
               </StyledLink>
            
