@@ -136,6 +136,14 @@ const Gnb = ({
            
              
             </ListMenu>
+            <ListMenu>
+              <StyledLink to="https://mapa-covid-19.now.sh/"  onClick={toggleMenu}>
+                Mapa Informativo
+              </StyledLink>
+           
+             
+            </ListMenu>
+            
             {hasPortfolio ? (
               <ListMenu>
                 <StyledLink to="/portfolios" className={isPortfolio ? 'active' : ''} onClick={toggleMenu}>
@@ -216,6 +224,13 @@ const Gnb = ({
           </StyledLink>
           
         </ListMenu>
+        <ListMenu>
+              <StyledLink to="https://mapa-covid-19.now.sh/"  onClick={toggleMenu}>
+                Mapa Informativo
+              </StyledLink>
+           
+             
+            </ListMenu>
         {hasPortfolio ? (
           <ListMenu>
             <StyledLink to="/portfolios" className={isPortfolio ? 'active' : ''}>
